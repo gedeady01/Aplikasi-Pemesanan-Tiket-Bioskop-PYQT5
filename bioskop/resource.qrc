@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/search20p.png</file>
+    <file>icons/search.png</file>
+    <file>icons/location-pin.png</file>
+    <file>icons/arrow-down.png</file>
+  </qresource>
+  <qresource prefix="images">
+    <file>images/ceklis.png</file>
+    <file>images/avengers-endgame.jpg</file>
+    <file>images/avengers-endgame-horizontal.jpg</file>
+    <file>images/joker_horizontal.jpg</file>
+    <file>images/frozen2.jpg</file>
+    <file>images/frozen2-horizontal.jpg</file>
+    <file>images/inside-out2-horizontal.jpg</file>
+    <file>images/inside-out2.jpg</file>
+    <file>images/batman.jpg</file>
+    <file>images/batman-horizontal.jpg</file>
+    <file>images/joker.jpg</file>
+  </qresource>
+</RCC>
